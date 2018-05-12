@@ -1,0 +1,25 @@
+_repo: New-Theories-in-Astronomy_45356
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45356-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Stirling, Willam
+    deathdate: 1900
+    gutenberg_agent_id: '43243'
+    url: http://www.gutenberg.org/2009/agents/43243
+description: ''
+gutenberg_issued: '2014-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy'
+title: New Theories in Astronomy
+url: http://www.gutenberg.org/ebooks/45356
